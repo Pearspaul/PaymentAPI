@@ -1,0 +1,7 @@
+This API is part of Money Transfer app
+
+In order to trigger email the Email credentials need to give in appsettings.json
+
+This API uses Payment table, so need to execute the migration command for DB creation
+
+This API uses to create transaction record in payment table, fetch payment deatils  and also to update transaction status.
